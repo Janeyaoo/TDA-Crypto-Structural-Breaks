@@ -62,7 +62,7 @@ They capture system-level connectivity shifts — particularly **market fragment
 
 ## Example Figure
 
-[View Figure 1 (PDF)](https://github.com/Janeyaoo/A-Topological-Framework-for-Identifying-Structural-Breaks-in-Cross-Asset-Cryptocurrency-Network/blob/main/replication/figures/main_paper/Fig1.pdf)
+![Figure 1](replication/figures/main_paper/Fig1.pdf)
 
 ---
 
