@@ -62,7 +62,7 @@ They capture system-level connectivity shifts — particularly **market fragment
 
 ## Example Figure
 
-![Figure 1](replication/figures/main_paper/Workflow.jpg)
+![Figure 1](replication/figures/main_paper/workflow.jpg)
 
 ---
 
